@@ -1,0 +1,16 @@
+Alright, I'll try to make this as quickest & straight forward as possible. As most of you clear headed people know, you opened this zip since it's a Claude Opus 5.5 jailbreak, which is correct. It also works on any other model if used properly. You will be setting up 3 jailbreak prompts for this to function at its best.
+
+## How can I set this up?
+
+1. Head to "C:\Users\user\Documents\Claude Opus 5.5 Jailbreak\Jailbreak Prompts".
+2. Copy all text inside "C:\Users\user\Documents\Claude Opus 5.5 Jailbreak\Jailbreak Prompts\New Session - ChatGPT.txt" then paste it in a brand new ChatGPT session.
+3. Copy all text inside "C:\Users\user\Documents\Claude Opus 5.5 Jailbreak\Jailbreak Prompts\System Instructions - Claude.txt" and paste it in your system instructions for Claude, make sure you save.
+3. Copy all text inside "C:\Users\user\Documents\Claude Opus 5.5 Jailbreak\Jailbreak Prompts\Jailbreak Prompt Respone - ChatGPT.txt" then paste it below in your ChatGPT inbox, then type what you want to create inside '[PASTE YOUR CURRENT PROMPT HERE]'; send it afterwards when done.
+4. Copy the response ChatGPT sends you, and open Claude Code Console with Opus 5.5 model configured, then send the response that ChatGPT has given you.
+5. That should do the work, you're welcome.
+
+I only tested this via Claude Code Console, so I'm not sure if it works elsewhere.
+
+---
+
+made by @bitofbyte on Discord | discord.gg/xbyte
